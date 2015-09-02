@@ -1,0 +1,10 @@
+FIXES NOTES - 
+
+-----------------------------------------------------------------
+02/09/2015 Fixes done to 
++ fnc_Zcontact.sqf
++ fnc_ZProximity.sqf
+in Exile.Altis.pbo
+
+Fixes lower sapwns and hlep reduce latency spikes on clients. 
+-----------------------------------------------------------------
