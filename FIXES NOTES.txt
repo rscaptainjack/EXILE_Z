@@ -1,10 +1,12 @@
 FIXES NOTES - 
 
+configurations.sqf The config is now working for spawn counts
+
 -----------------------------------------------------------------
 02/09/2015 Fixes done to 
 + fnc_Zcontact.sqf
 + fnc_ZProximity.sqf
-in Exile.Altis.pbo
+and Exile.Altis.pbo that got corrupted
 
-Fixes lower sapwns and hlep reduce latency spikes on clients. 
+lower spawns and help reduce latency spikes on clients. 
 -----------------------------------------------------------------
