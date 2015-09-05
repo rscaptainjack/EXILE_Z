@@ -1,5 +1,7 @@
 FIXES NOTES - 
 
+04/09/2015 - Added CfgRemoteExecCommands fixes to block remote access in description.ext  
+
 configurations.sqf The config is now working for spawn counts
 
 -----------------------------------------------------------------
