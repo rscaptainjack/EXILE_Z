@@ -1,10 +1,17 @@
 FIXES NOTES - 
 
+
+09/09/2015 - updated @Ryanzombies to the new stable version 
+
+Has been reports of FPS issues try less zombie spawns the update to Ryanzombies may help.
+Exile SP3 will be added when it's a official release and been tested. 
+
+-----------------------------------------------------------------
+
 04/09/2015 - Added CfgRemoteExecCommands fixes to block remote access in description.ext  
 
 configurations.sqf The config is now working for spawn counts
 
------------------------------------------------------------------
 02/09/2015 Fixes done to 
 + fnc_Zcontact.sqf
 + fnc_ZProximity.sqf
