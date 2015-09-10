@@ -1,3 +1,6 @@
+
+See code changes at https://github.com/rscaptainjack/ZOMBIES_CODE/tree/master/NEW_CODE
+
 # EXILE_Z
 Zombie mod project for Exile 
 project started by admins of relentlessservers.com
