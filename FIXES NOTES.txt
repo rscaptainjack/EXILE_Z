@@ -1,12 +1,15 @@
 FIXES NOTES - 
 
+10/09/2015 - Updated zombie spawn scripts added new loading logo for effect removed sounds and sound cfgs in description.ext due to new code for mod
 
+See here for more info on code update: https://github.com/rscaptainjack/ZOMBIES_CODE
+
+
+-----------------------------------------------------------------
 09/09/2015 - updated @Ryanzombies to the new stable version 
 
 Has been reports of FPS issues try less zombie spawns the update to Ryanzombies may help.
 Exile SP3 will be added when it's a official release and been tested. 
-
------------------------------------------------------------------
 
 04/09/2015 - Added CfgRemoteExecCommands fixes to block remote access in description.ext  
 
