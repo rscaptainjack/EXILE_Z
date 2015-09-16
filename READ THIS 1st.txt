@@ -1,3 +1,11 @@
+
+  Repack Projects Ended see Script for updates: https://github.com/rscaptainjack/ZOMBIES_CODE
+
+
+///////***************************************************\\\\\\\\\\\\\\\\
+
+OLD setup if needed
+
 This ALPHA build of EXILE-Z by captainjack this build will add Zombies to the original server files of EXILE v0.9.19SP2
 This repack was made possible thanks to EXILE, Corvobrok, Ryandombrowsky, Relentless Servers admins and you guys who love zombies!
 
